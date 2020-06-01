@@ -10,8 +10,40 @@ h1{
     font-weight: normal;
     padding: auto auto;
 }
+
 a{
     display: block;
     color:aquamarine;
     font-size: 16px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+#aboveLink{
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+p{
+    color: gray;
+    font-size: 21px;
+}
+
+#camp{
+    width: 800px;
+    height: auto;
+    margin: 20px auto;
+    display: block;
+}
+
+span{
+    width: 100%;
+    display: block;
+    text-align: right;
+    color: gray;
+}
+
+#travelHeader{
+    font-weight: 300;
+    font-size: 42px;
 }
