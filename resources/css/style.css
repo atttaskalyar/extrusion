@@ -1,4 +1,17 @@
 body{
-    background-color: blue;
+    background-color: black;
+    font-family: Verdana;
+    color:white;
+    text-align: center;
+}
 
+h1{
+    font-size: 50px;
+    font-weight: normal;
+    padding: auto auto;
+}
+a{
+    display: block;
+    color:aquamarine;
+    font-size: 16px;
 }
